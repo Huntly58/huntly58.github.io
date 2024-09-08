@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Sam Gordon
+title: NetRuners
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Norlin – A Beautiful Dark Blog Theme for Jekyll.
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -17,8 +17,8 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: Sam Gordon
-  description: Aspiring Cyber afficianado.
+  title: NetRuners
+  description: Cyber Security research.
   image: '/images/02.jpg'
 
 
